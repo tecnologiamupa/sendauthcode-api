@@ -248,19 +248,6 @@ Verificar que:
 - El token de acceso de Facebook sea válido
 - El número de teléfono esté verificado en WhatsApp Business
 - La aplicación tenga los permisos necesarios
-
-## 📄 Licencia
-
-[Especificar la licencia del proyecto]
-
-## 👥 Contribuidores
-
-[Lista de contribuidores]
-
-## 📞 Contacto
-
-[Información de contacto]
-
----
+ 
 
 **Nota**: Este proyecto está en desarrollo activo. Para más información, consulta la documentación o contacta al equipo de desarrollo.
